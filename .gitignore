@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+sofya
+db.sqlite3
+.DS_Store
+cat.py
+dog.py
+cat.ru
